@@ -35,7 +35,7 @@ newman run AutomationExercise.postman_collection.json -e Automation_Exercise.pos
 This repository is set up with GitHub Actions for continuous integration. Check the `.github/workflows` directory for the workflow configuration.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
 
 ### Author
 Sandra: [Github](https://github.com/Sandra-Ston)
